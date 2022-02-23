@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.85.141:8081/repository/Tech-Release/</url>
+            <url>http://192.168.85.141:8081/repository/Tech-release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.85.141:8081/repository/tech-Snap/</url>
+            <url>http://192.168.85.141:8081/repository/tech-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
